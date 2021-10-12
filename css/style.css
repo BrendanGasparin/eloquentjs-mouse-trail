@@ -1,0 +1,12 @@
+body {
+    min-height: 100vh;
+    background-color: #dddddd;
+}
+
+.trail {
+    position: absolute;
+    height: 12px;
+    width: 12px;
+    background-color: #ffffff;
+    border: 1px solid black;
+}
